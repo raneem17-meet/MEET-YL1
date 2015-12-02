@@ -1,5 +1,5 @@
 from meet import *
-ball1={"radius":20,"x":7,"y":60,"dy":1,"dx":1}
+ball1={"radius":20,"x":7,"y":60,"dy":1,"dx":0}
 cells=[]
 circle1=create_cell(ball1)
 cells.append(circle1)
