@@ -1,0 +1,8 @@
+from AnimalFile import Animal
+dog = Animal("Max", "Brown", 2)
+cat = Animal("Min", "White", 17)
+
+
+
+
+print(dog.name+" is "+str(dog.age)+" years old, and its color is "+dog.color)
